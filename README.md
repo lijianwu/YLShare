@@ -1,4 +1,7 @@
 # YLShare
+
+## 加我微信：lixiaowu1129
+
 仿照微信拍照, WKWebView 和 UIWebView 的 js交互, 仿照头条视频播放功能
 
 ## 类似于 今日头条 的视频播放功能
